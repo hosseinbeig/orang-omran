@@ -1,0 +1,15 @@
+{
+  "name": "orang-omran",
+  "version": "1.0.0",
+  "description": "company website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Hossein Beigzadeh",
+  "license": "ISC",
+  "homepage": "https://hosseinbeig.github.io/orang-omran",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
